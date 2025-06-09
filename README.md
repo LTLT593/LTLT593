@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I'm Lucas 👋
+
+I'm currently working on applying instance segmentation and computer vision to automate geotechnical core analysis in mining.
+
+📇 [Connect with me on LinkedIn](https://www.linkedin.com/in/lucas-sun-lie-tan/)
+
+💬 Feel free to reach out if you'd like to connect or collaborate!
+
 
 <!--
 **LTLT593/LTLT593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
